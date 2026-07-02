@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\POC\\POC-PricePaidData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69EBF2-EA6D-1110-6540-DE3D2AE3999C}|Src\\Server\\API\\API.csproj|c:\\source\\poc\\poc-pricepaiddata\\src\\server\\api\\price-paid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A69EBF2-EA6D-1110-6540-DE3D2AE3999C}|Src\\Server\\API\\API.csproj|solutionrelative:src\\server\\api\\price-paid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69EBF2-EA6D-1110-6540-DE3D2AE3999C}|Src\\Server\\API\\API.csproj|c:\\source\\poc\\poc-pricepaiddata\\src\\server\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A69EBF2-EA6D-1110-6540-DE3D2AE3999C}|Src\\Server\\API\\API.csproj|solutionrelative:src\\server\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69EBF2-EA6D-1110-6540-DE3D2AE3999C}|Src\\Server\\API\\API.csproj|c:\\source\\poc\\poc-pricepaiddata\\src\\server\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A69EBF2-EA6D-1110-6540-DE3D2AE3999C}|Src\\Server\\API\\API.csproj|solutionrelative:src\\server\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Source\\POC\\POC-PricePaidData\\Src\\Server\\API\\API.csproj",
+              "RelativeDocumentMoniker": "Src\\Server\\API\\API.csproj",
+              "ToolTip": "C:\\Source\\POC\\POC-PricePaidData\\Src\\Server\\API\\API.csproj",
+              "RelativeToolTip": "Src\\Server\\API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-01T14:50:51.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Price-Paid.cs",
+              "DocumentMoniker": "C:\\Source\\POC\\POC-PricePaidData\\Src\\Server\\API\\Price-Paid.cs",
+              "RelativeDocumentMoniker": "Src\\Server\\API\\Price-Paid.cs",
+              "ToolTip": "C:\\Source\\POC\\POC-PricePaidData\\Src\\Server\\API\\Price-Paid.cs",
+              "RelativeToolTip": "Src\\Server\\API\\Price-Paid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:51:19.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Source\\POC\\POC-PricePaidData\\Src\\Server\\API\\Program.cs",
+              "RelativeDocumentMoniker": "Src\\Server\\API\\Program.cs",
+              "ToolTip": "C:\\Source\\POC\\POC-PricePaidData\\Src\\Server\\API\\Program.cs",
+              "RelativeToolTip": "Src\\Server\\API\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:50:23.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

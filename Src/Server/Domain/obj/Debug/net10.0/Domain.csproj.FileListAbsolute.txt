@@ -1,0 +1,11 @@
+C:\Source\POC\POC-PricePaidData\Src\Server\Domain\bin\Debug\net10.0\Domain.deps.json
+C:\Source\POC\POC-PricePaidData\Src\Server\Domain\bin\Debug\net10.0\Domain.dll
+C:\Source\POC\POC-PricePaidData\Src\Server\Domain\bin\Debug\net10.0\Domain.pdb
+C:\Source\POC\POC-PricePaidData\Src\Server\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\POC\POC-PricePaidData\Src\Server\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+C:\Source\POC\POC-PricePaidData\Src\Server\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+C:\Source\POC\POC-PricePaidData\Src\Server\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+C:\Source\POC\POC-PricePaidData\Src\Server\Domain\obj\Debug\net10.0\Domain.dll
+C:\Source\POC\POC-PricePaidData\Src\Server\Domain\obj\Debug\net10.0\refint\Domain.dll
+C:\Source\POC\POC-PricePaidData\Src\Server\Domain\obj\Debug\net10.0\Domain.pdb
+C:\Source\POC\POC-PricePaidData\Src\Server\Domain\obj\Debug\net10.0\ref\Domain.dll
