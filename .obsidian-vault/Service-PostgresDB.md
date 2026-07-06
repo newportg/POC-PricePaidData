@@ -1,11 +1,11 @@
 ---
-title: Untitled
+title: "Service: PostgresDB"
 date: 2026-07-06
 status: Draft
 ---
 
 ## Goal
-[What are we trying to achieve?]
+A service will be created that will provide a simple interface to a PostgresDB
 
 ## Acceptance Criteria
 - [ ] Criterion 1
