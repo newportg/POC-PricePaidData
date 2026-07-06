@@ -23,7 +23,7 @@ public class Price_Paid
     [Function("Properties")]
     [OpenApiOperation(operationId: "years", Description = "Get list of available years")]
     [OpenApiResponseWithoutBody(statusCode: HttpStatusCode.InternalServerError, Description = "Configuration issue")]
-    [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "text/plain", bodyType: typeof(Array), Description = "The OK response")]
+    [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(int[]), Description = "The OK response")]
     public HttpResponseData GetDelta([HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "years")] HttpRequestData req)
     {
         var response = req.CreateResponse(HttpStatusCode.OK);

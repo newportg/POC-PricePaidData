@@ -27,15 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "API",
+              "Title": "API.csproj",
               "DocumentMoniker": "C:\\Source\\POC\\POC-PricePaidData\\Src\\Server\\API\\API.csproj",
               "RelativeDocumentMoniker": "Src\\Server\\API\\API.csproj",
               "ToolTip": "C:\\Source\\POC\\POC-PricePaidData\\Src\\Server\\API\\API.csproj",
               "RelativeToolTip": "Src\\Server\\API\\API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-01T14:50:51.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T14:50:51.383Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Src\\Server\\API\\Program.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:50:23.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T14:50:23.651Z"
             }
           ]
         }
