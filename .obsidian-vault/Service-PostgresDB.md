@@ -13,3 +13,10 @@ A service will be created that will provide a simple interface to a PostgresDB
 
 ## Out of Scope
 [What this spec deliberately does not cover]
+
+
+```plantuml
+
+a -> b
+
+```
