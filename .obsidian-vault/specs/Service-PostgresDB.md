@@ -16,7 +16,5 @@ A service will be created that will provide a simple interface to a PostgresDB
 
 
 ```plantuml
-@startuml
 a -> b
-@enduml
 ```

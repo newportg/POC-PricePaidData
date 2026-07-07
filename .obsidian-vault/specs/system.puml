@@ -1,0 +1,14 @@
+@startuml
+!include <C4/C4_Component>
+
+LAYOUT_WITH_LEGEND()
+LAYOUT_LEFT_RIGHT()
+
+System_Boundary(c1, "Knight Frank") {
+    System_Boundary(auth, "Managed Identity") {
+        System(hub, "Hub, Property Transaction System") 
+    }
+}
+
+
+@enduml
